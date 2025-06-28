@@ -21,7 +21,8 @@ A simple, interactive Python script to generate secure and customizable password
 ## 📁 Project Structure
 
 ```bash
-password_generator.py    # Main script to run the password generator
+├── app.py
+└── README.md
 ```
 
 ---
