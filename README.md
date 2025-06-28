@@ -18,7 +18,7 @@ Below is a curated list of beginner-to-intermediate level Python projects, along
 | [Guess The Number Game](./Guess_number_game)           | 🟢 Easy — Random Module, Loops, Conditionals, User Feedback  |
 | [URL Shortener](./url-shortener)                 | 🟡 Medium — APIs, String Manipulation, Requests Library      |
 | [Temperature Converter](./Temperature_converter) | 🟢 Easy — Math Operations, Conditional Logic, Optional GUI   |
-| [Random Quote Generator](./quote-generator)      | 🟡 Medium — API Integration, JSON Parsing, String Formatting |
+| [Random Quote Generator](./Random_Quote_generator)      | 🟡 Medium — API Integration, JSON Parsing, String Formatting |
 | [QR Code Generator](./qr-code-generator)         | 🟡 Medium — External Libraries (`qrcode`), Image Generation  |
 | [Password Generator](./password-generator)       | 🟡 Medium — Randomness, Character Sets, Loop Logic           |
 | [Unit Converter](./unit-converter)               | 🟢 Easy — Arithmetic, Input Validation, CLI/GUI Flexibility  |
