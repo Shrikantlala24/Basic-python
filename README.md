@@ -21,7 +21,7 @@ Below is a curated list of beginner-to-intermediate level Python projects, along
 | [Random Quote Generator](./Random_Quote_generator)      | 🟡 Medium — API Integration, JSON Parsing, String Formatting |
 | [QR Code Generator](./qr-code-generator)         | 🟡 Medium — External Libraries (`qrcode`), Image Generation  |
 | [Password Generator](./password-generator)       | 🟡 Medium — Randomness, Character Sets, Loop Logic           |
-| [Unit Converter](./unit-converter)               | 🟢 Easy — Arithmetic, Input Validation, CLI/GUI Flexibility  |
+| [Unit Converter](./Unit_converter)               | 🟢 Easy — Arithmetic, Input Validation, CLI/GUI Flexibility  |
 | [Currency Converter](./currency-converter)       | 🟡 Medium — Live Exchange API, Requests, Data Formatting     |
 
 Each project is designed to be standalone, runnable, and easily understandable. You’ll find comments in the code where needed, and in future updates, I plan to add brief individual `README.md` files for each project as well.
