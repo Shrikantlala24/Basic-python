@@ -19,7 +19,7 @@ Below is a curated list of beginner-to-intermediate level Python projects, along
 | [URL Shortener](./url-shortener)                 | 🟡 Medium — APIs, String Manipulation, Requests Library      |
 | [Temperature Converter](./Temperature_converter) | 🟢 Easy — Math Operations, Conditional Logic, Optional GUI   |
 | [Random Quote Generator](./Random_Quote_generator)      | 🟡 Medium — API Integration, JSON Parsing, String Formatting |
-| [QR Code Generator](./qr-code-generator)         | 🟡 Medium — External Libraries (`qrcode`), Image Generation  |
+| [QR Code Generator](./QR_Generator)         | 🟡 Medium — External Libraries (`qrcode`), Image Generation  |
 | [Password Generator](./Password_generator)       | 🟡 Medium — Randomness, Character Sets, Loop Logic           |
 | [Unit Converter](./Unit_converter)               | 🟢 Easy — Arithmetic, Input Validation, CLI/GUI Flexibility  |
 | [Currency Converter](./Currency_converter)       | 🟡 Medium — Live Exchange API, Requests, Data Formatting     |
